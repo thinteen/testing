@@ -1,0 +1,72 @@
+﻿{
+  "validProductFirst": {
+    "category_id": "1",
+    "title": "e5iohbysrdhfbr",
+    "content": "content",
+    "price": "10",
+    "old_price": "9",
+    "status": "0",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "0"
+  },
+  "validProductSecond": {
+    "category_id": "2",
+    "title": "productSecond",
+    "content": "content",
+    "price": "100",
+    "old_price": "99",
+    "status": "1",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "1"
+  },
+  "invalidProduct": {
+    "category_id": "16",
+    "title": "invalidProduct",
+    "content": "content",
+    "price": "10",
+    "old_price": "10",
+    "status": "1",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "2"
+  },
+  "validProductForUpdate": {
+    "category_id": "1",
+    "title": "e5iohbysrdhfbr",
+    "content": "content",
+    "price": "100",
+    "old_price": "9",
+    "status": "0",
+    "keywords": "keywords",
+    "description": "description",
+    "hit": "0"
+  },
+  "invalidProductForUpdate": {
+    "category_id": "20",
+    "title": "new title",
+    "content": "new content",
+    "price": "234",
+    "old_price": "200",
+    "status": "2",
+    "keywords": "new keywords",
+    "description": "new description",
+    "hit": "1"
+  },
+  "notExistingProduct": {
+    "id": "-1",
+    "category_id": "1",
+    "title": "new title",
+    "content": "new content",
+    "price": "342",
+    "old_price": "65",
+    "status": "0",
+    "keywords": "new keywords",
+    "description": "new description",
+    "hit": "0"
+  },
+  "nullObject": {
+
+  }
+}
